@@ -1,3 +1,9 @@
 This is ETL for beginner is from youtube maven analytics 
 
-WHY Python for ETL
+
+this repo explains ways to ETRACT, TRANSPORT and LOAD in python.
+EXTRACT files from  CSV, DBMs , JSON ,PARQUET.
+
+Sample TRANSPORT and DATA MANIPULATION
+
+LOADing file to sqlite .
