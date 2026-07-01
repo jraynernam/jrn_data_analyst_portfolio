@@ -1,29 +1,10 @@
-# cyclistic-bike-share-case-study
-"Google Data Analytics Capstone project analyzing bike-share user behaviors to maximize annual memberships."
+# Welcome to my Data Analyst Portfolio
+This repo is a collection of sample project and study materials on my data analyst journey.
+Special thanks to DAP( Data Analytics Pilipinas) and DEP ( Data Engineer Pilipinas). Even though I'm just a silent reader,
+I learned many things for free. 
 
-# Cyclistic Bike-Share Analysis: Case Study
+Certifications and bootcamps are optional, but this will help you to a strong roadmap and leverage data analystic foundation.
 
-This case study is part of my Data Analytics portfolio. It explores how casual riders and annual members use Cyclistic bikes differently in order to guide a marketing strategy for conversion.
+Thank you all
 
-📄 **[Download the Full Presentation Slide Deck (PDF)](A Data-Driven Behavioral Analysis to.pdf)**  
-📊 **Visualization only done in excel for quick visuals**
-
----
-
-## 1. Business Task
-*   **Objective:** Analyze historical bike trip data to identify trends.
-*   **Goal:** Design marketing strategies aimed at converting casual riders into annual members.
-
-## 2. Data Source & Preparation
-*   Data sourced from [divvy-tripdata.s3.amazonaws.com/index.html].
-*   Tools used: **Python (Jupyter Lab)** for data cleaning and aggregation, **Excel** for data visualization.
-
-## 3. Key Insights
-*   *Insight 1:* Casual riders tend to take much longer trips on weekends compared to members.
-*   *Insight 2:* Massive surge of user when winter season ends.
-*   *Insight 3:* Trying to explore marketing strategy on casual rider demographic information.
-## 4. Recommendations
-1. Launch weekend-specific promotions targeted at casual riders.
-2. Introduce a seasonal membership tier for summer-only riders.
-3. Incetivize Profile completion
    
